@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+    "title": "Однажды я стала принцессой(3 тома)",
+      "author": "MangaLib - Plutos",
+      "image": "http://pm1.narvii.com/7899/896e2a8777edfd8a70d5d685486afcee307a6b93r1-1080-1080v2_uhq.jpg",
+      "price": 15000,
+      "currency": "₽",
+      "category": "Исекай, Романтика, Фэнтези",
+      "description": "Когда я открыла глаза, то стала принцессой из романа, который читала.",
+      "size": 120
+    },
+
+    {
+      "title": "Операция: Настоящая любовь (1 том)",
+      "author": "MangaLib - Kkokkali",
+      "image": "https://i.ytimg.com/vi/WqrXylZC1c0/maxresdefault.jpg",
+      "price": 5000,
+      "currency": "₽",
+      "category": "Драма, Романтика, Седзе, Сверхъестественное",
+      "description": "Я случайно увидела поцелуй моего парня и лучшей подруги. Мой одноклассник Ко Ын Хёк стал таким же невольным свидетелем.",
+      "size": 100
+    },
+
+    {
+      "title": "Белая кровь (2 тома)",
+      "author": "MangaLib - LIM Lina",
+      "image": "https://i.pinimg.com/736x/fd/4c/7f/fd4c7f1d28dd3fba28289bd70f21d4b1.jpg",
+      "price": 9500,
+      "currency": "₽",
+      "category": "Вампиры, Боевик, Романтика, ГГ имба",
+      "description": "Корею поглотил хаос. Уже как десять лет вампиры терроризируют мирных граждан, а правительство совершенно бессильно! Пак Хаян 20-летняя студентка колледжа - чистокровный вампир",
+      "size": 100
+    },
+
+    {
+      "title": "Брачный бизнес (2 тома)",
+      "author": "MangaLib - Ken hanheun",
+      "image": "https://static.mangahub.ru/uploads/media/manga_cover/0020/99/acf8688ad2cd3643f1b865f26eb73483f7ecabfe.png",
+      "price": 8700,
+      "currency": "₽",
+      "category": "Драма, История, Романтика, Средневековье",
+      "description": " Злодейка без чести: такой была жизнь Бьянки до того, как она вернулась в прошлое.",
+      "size": 60
+    }
+  ]
+}
